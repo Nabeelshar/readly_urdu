@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/readly_urdu/static/css/main.2da491ca.css",
+    "main.js": "/readly_urdu/static/js/main.4312cba7.js",
+    "static/js/787.b3f9d252.chunk.js": "/readly_urdu/static/js/787.b3f9d252.chunk.js",
+    "index.html": "/readly_urdu/index.html",
+    "main.2da491ca.css.map": "/readly_urdu/static/css/main.2da491ca.css.map",
+    "main.4312cba7.js.map": "/readly_urdu/static/js/main.4312cba7.js.map",
+    "787.b3f9d252.chunk.js.map": "/readly_urdu/static/js/787.b3f9d252.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2da491ca.css",
+    "static/js/main.4312cba7.js"
+  ]
+}
